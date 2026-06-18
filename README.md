@@ -50,9 +50,9 @@ Building projects, learning new technologies, and growing one commit at a time.
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&langs_count=10)
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efyonx&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=efyonx&layout=compact&theme=tokyonight&langs_count=10)
+![GitHub Streak](https://streak-stats.demolab.com/?user=efyonx&theme=tokyonight)
 
 ---
 
