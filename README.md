@@ -67,7 +67,7 @@ Building projects, learning new technologies, and growing one commit at a time.
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR-EMAIL">
+  <a href="mailto:efesonyonas@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40" alt="Gmail"/>
   </a>
 </p>
